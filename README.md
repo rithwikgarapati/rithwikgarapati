@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Rit
+
+Lets get in touch! Find me on [Linkedin](https://www.linkedin.com/in/rithwik-garapati/), connect with me on [Instagram](https://www.instagram.com/rithwik.garapati/), look at my [resume](https://docs.google.com/document/d/1rSfJx3HREn9d3ziyuXoc6rTgl8UM9GobyghxLw6-iQ8/edit?usp=sharing), or [email](rithwik.garapati@gmail.com) me.
+
 <!--
 **rithwikgarapati/rithwikgarapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
