@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**I am Rithwik Garapati, a second-year Computer Science major at UC Irvine**
+**Hey, I am Rithwik Garapati, a second-year Computer Science major at UC Irvine**
 
 I love the Artificial Intelligence aspect of Computer Science and would like to specialize in it. I am currently expanding my horizons and delving into new fields like Web Development. I would later want to add the AI aspect into my web applications. Feel free to look at my repositories for my latest projects in Web development.
 
